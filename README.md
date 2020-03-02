@@ -1,5 +1,5 @@
 # vehicular-accident-prediction
-Created a predictive model using based on historical weather data, weather and road condition alert tweets, and traffic incident reports by the City of Calgary
+Created a predictive model based on historical weather data, weather and road condition alert tweets, and traffic incident reports by the City of Calgary
 
 We used Weather Data from Environment Canada Data Archive, Traffic Incident Data from The City of Calgary, 511 Alberta a free traveller information service, operated by the Government of Alberta's twitter account. Tweets were extracted via official Twitter API. 
 
